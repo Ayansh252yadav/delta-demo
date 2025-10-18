@@ -1,2 +1,2 @@
-Learnini concepts of git and </br>
+Learning concepts of git and </br>
 github
